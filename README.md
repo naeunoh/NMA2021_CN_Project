@@ -1,7 +1,7 @@
-# NMA2021_CN_Project
-Neuromatch Academy 2021 Computational Neuroscience - Project Brownies
+# Neuromatch Academy 2021 Computational Neuroscience Project
 
-Team members : Naeun Oh, Ying Zhou, Rathi Karuppasamy
+### Title : The Hierarchical Architecture of the Visual Cortex and Deep Neural Networks
+### Team Brownies : Naeun Oh, Ying Zhou, Rathi Karuppasamy
 
 ### Abstract
 Human visual system is known to have an anatomical and functional hierarchical structure. Different regions of the visual cortex process different visual information in a hierarchy from basic features to object recognition. Recent advances in computer vision allow deep neural network models (DNN) to recognize visual stimulation with high accuracy. Does the DNN capture feature information of images in a way that the brain does? If so, what does this imply about the hierarchy of the visual system as a network? Using fMRI responses while viewing images, we explore whether DNN models can explain the hierarchy of representations in the visual cortex.
